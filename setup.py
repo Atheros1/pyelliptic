@@ -49,4 +49,7 @@ setup(
         'Programming Language :: Python :: 3',
         'Topic :: Security :: Cryptography',
     ],
+    install_requires=[
+        'streql==3.0.2',
+    ],
 )
